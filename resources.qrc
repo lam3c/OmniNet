@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="omninet.png">assets/logoicon.png</file>
+    </qresource>
+</RCC>
